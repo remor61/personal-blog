@@ -1,0 +1,16 @@
+[
+    {
+        "id": 0,
+        "postTitle": "First post",
+        "date": "Aug 8 2021",
+        "shortText": "First post short text with maximum of 120 chars which is the exact count on this pretty explendidouns and great example.",
+        "fullText": "First post full text - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquam, dolor eu venenatis volutpat, enim orci vehicula eros, ut porta metus tellus sollicitudin nibh. Phasellus maximus, nunc ut aliquam gravida, ipsum nisi rhoncus purus, et sollicitudin arcu velit in tortor. Sed volutpat bibendum velit, sed aliquam ex ullamcorper eleifend. Mauris non est arcu. Donec quis posuere tortor. Nam dapibus dapibus ipsum, non tincidunt lectus euismod ac. Morbi sapien purus, varius ut mauris nec, mollis mattis nulla. Integer vitae urna id felis pellentesque pharetra"
+    },
+    {
+        "id": 1,
+        "postTitle": "Second post",
+        "date": "Aug 9 2021",
+        "shortText": "Second post short text with maximum of 120 chars which is the exact count on this pretty explendidouns and great example.",
+        "fullText": "Second post full text - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquam, dolor eu venenatis volutpat, enim orci vehicula eros, ut porta metus tellus sollicitudin nibh. Phasellus maximus, nunc ut aliquam gravida, ipsum nisi rhoncus purus, et sollicitudin arcu velit in tortor. Sed volutpat bibendum velit, sed aliquam ex ullamcorper eleifend. Mauris non est arcu. Donec quis posuere tortor. Nam dapibus dapibus ipsum, non tincidunt lectus euismod ac. Morbi sapien purus, varius ut mauris nec, mollis mattis nulla. Integer vitae urna id felis pellentesque pharetra"
+    }
+]

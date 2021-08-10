@@ -1,0 +1,9 @@
+extends layout
+
+block layout-content
+    .container 
+        .row
+            .col-12 
+                h2=mockupPosts.postTitle
+                .mb-1.text-dark=mockupPosts.date
+                p.card-text.mb-auto=mockupPosts.fullText

@@ -8,7 +8,7 @@ html
   link(rel="stylesheet" href="../resources/style.css")
   link(rel="stylesheet" href="../resources/home.css")
   link(rel="shortcut icon" type="image/png" href="../resources/images/favicon.png")
-  script(src='../scripts/home.js')
+  //script(src='../scripts/home.js')
 body
   .container
     header.blog-header.p-3.headerColor
@@ -25,9 +25,9 @@ body
           a.btn.btn-sm.btn-outline-light.text-nowrap(href='#') Sign up
     .nav-scroller.py-1.mb-4.headerColor.position-sticky(style='top:1.5rem;')
       nav.nav.d-flex.justify-content-between 
-        a.p-2.link-light.nounderline(href='#') Posts
+        a.p-2.link-light.nounderline(href='createNewPost') New Post
         a.p-2.link-light.nounderline(href='#') About
-        a.p-2.link-light.nounderline(href='#') Home
+        a.p-2.link-light.nounderline(href='/') Home
         a.p-2.link-light.nounderline(href='#') Why
         a.p-2.link-light.nounderline(href='#') Contact
   div#root
