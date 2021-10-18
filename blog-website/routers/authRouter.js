@@ -22,7 +22,7 @@ authRouter.route('/signup').post((req,res)=>{
     
     const {email,password} = req.body;
 
-    const url = 'mongodb+srv://dbUser:6fGOHn41aNLVXRFs@blog.ir5ns.mongodb.net?retryWrites=true&w=majority';
+    const url = '';
     const dbName = 'blog';
 
     (async function addUser(){
