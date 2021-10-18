@@ -1,6 +1,9 @@
 body{
-    background: #ffffff;
+    background: #4e4e4f;
 }
 .headerColor{
     background: #292929;
+}
+a:hover{
+    text-decoration: underline;
 }

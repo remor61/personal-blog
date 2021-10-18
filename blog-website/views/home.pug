@@ -12,7 +12,7 @@ block layout-content
                                     h3.mb-0=post.postTitle
                                     .mb-1.text-dark=post.date
                                     p.card-text.mb-auto=post.shortText
-                                    a.stretched-link.link-light(href=`completePost/${post.id}`) Continue reading
+                                    a.stretched-link.link-light(href=`completePost/${post._id}`) Continue reading
                                 .col-auto.d-none.d-lg-block
                                     svg.bd-placeholder-img(width='200' height='250' xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false")
                                         title Placeholder
@@ -23,4 +23,4 @@ block layout-content
                     .p-2.mb-4.rounded(style='background: #d3d4d4;')
                         h4.fst-italic About
                         p.text-justify Here I write something about why I'm doing this Here I write something about why I'm doing this Here I write something about why I'm doing this Here I write something about why I'm doing this.
-                    button#btnAddCard.btn.btn-secondary(type='button' href='createNewPost') New Post
+                    
